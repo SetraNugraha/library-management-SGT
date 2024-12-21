@@ -10,7 +10,7 @@
 Requirement
 
 ```bash
-  express js, prisma, nodemon, PostgreSQL
+  express v.4.21.2, prisma v.6.1.0, nodemon, PostgreSQL
 ```
 
 Clone the project
